@@ -5,7 +5,10 @@ This project analyzes retail banking transactions and loan portfolio data using 
 
 ## Datasets Used
 - Retail Banking Transactions
+  https://github.com/iDean0/-RETAIL-BANKING-ANALYTICS-PROJECT/blob/main/Banking%20Transactions.xlsx
+  
 - Banking Loans Portfolio
+  
 
 ## Dashboards
 1. Retail Banking Transactions Performance
