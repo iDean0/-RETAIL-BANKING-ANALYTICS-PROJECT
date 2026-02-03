@@ -9,13 +9,16 @@ This project analyzes retail banking transactions and loan portfolio data using 
 
 ## Dashboards
 1. Retail Banking Transactions Performance
-   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4e996afb-657b-4039-9993-d58fff2f29a6" />
+   <img width="1300" height="720" alt="image" src="https://github.com/user-attachments/assets/2000b4a2-4bee-49bf-8ded-357a29bd35dd" />
 
-3. Loan Portfolio & Credit Risk Analysis
-   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/74d835ac-66c3-4be9-adf0-078bc2d3e92f" />
 
-5. Customer Value & Exposure Overview
-   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/88b2c5e1-8519-49b0-b70c-e3696bb3bcc7" />
+2. Loan Portfolio & Credit Risk Analysis
+   <img width="1306" height="719" alt="image" src="https://github.com/user-attachments/assets/d6df143a-9658-4c00-a79f-b0d61e932dcd" />
+
+
+3. Customer Value & Exposure Overview
+   <img width="1290" height="721" alt="image" src="https://github.com/user-attachments/assets/4b04d606-648e-498e-b8cb-bf154c282643" />
+
 
 ## Key Insights
 - Transaction activity is dominated by high-value transactions, indicating strong customer engagement.
@@ -35,3 +38,5 @@ This project analyzes retail banking transactions and loan portfolio data using 
 📩 [Email](mailto:adeyosoye37@gmail.com)
 
 🔗 [Linkedin](https://www.linkedin.com/in/daniel-y-/)
+
+💬 [Chat on Whatsapp](https://wa.me/2348141512158)
